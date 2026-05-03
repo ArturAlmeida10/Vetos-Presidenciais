@@ -1,0 +1,39 @@
+
+Anexando pacote: 'purrr'
+
+O seguinte objeto é mascarado por 'package:jsonlite':
+
+    flatten
+
+Mensagen de aviso:
+pacote 'purrr' foi compilado no R versão 4.5.2 
+
+Anexando pacote: 'dplyr'
+
+Os seguintes objetos são mascarados por 'package:stats':
+
+    filter, lag
+
+Os seguintes objetos são mascarados por 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Mensagen de aviso:
+pacote 'dplyr' foi compilado no R versão 4.5.2 
+
+Anexando pacote: 'lubridate'
+
+Os seguintes objetos são mascarados por 'package:base':
+
+    date, intersect, setdiff, union
+
+Mensagen de aviso:
+pacote 'stringr' foi compilado no R versão 4.5.2 
+==> Lendo resultados por veto
+  vetos lidos:        1313
+  dispositivos lidos: 16878
+==> Lendo índice de leis
+==> Tratamento concluído
+  vetos:        1313 linhas -> data/processed/vetos.rds
+  dispositivos: 16878 linhas -> data/processed/dispositivos.rds
+  leis:         6572 linhas -> data/processed/leis.rds

@@ -1,0 +1,78 @@
+
+Anexando pacote: 'purrr'
+
+O seguinte objeto é mascarado por 'package:jsonlite':
+
+    flatten
+
+Mensagen de aviso:
+pacote 'purrr' foi compilado no R versão 4.5.2 
+
+Anexando pacote: 'dplyr'
+
+Os seguintes objetos são mascarados por 'package:stats':
+
+    filter, lag
+
+Os seguintes objetos são mascarados por 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Mensagen de aviso:
+pacote 'dplyr' foi compilado no R versão 4.5.2 
+==> Baixando lista anual de vetos
+  - 1995
+  - 1996
+  - 1997
+  - 1998
+  - 1999
+  - 2000
+  - 2001
+  - 2002
+  - 2003
+  - 2004
+  - 2005
+  - 2006
+  - 2007
+  - 2008
+  - 2009
+  - 2010
+  - 2011
+  - 2012
+  - 2013
+  - 2014
+  - 2015
+  - 2016
+  - 2017
+  - 2018
+  - 2019
+  - 2020
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+  - 2026
+==> Consolidando códigos de veto
+  total de vetos catalogados: 1313
+==> Baixando resultado por veto (cache: pula se já existe)
+==> Baixando detalhe da matéria (mensagem do veto)
+Waiting 15s for retry backoff ■■■                             
+Waiting 15s for retry backoff ■■■■■■■                         
+Waiting 15s for retry backoff ■■■■■■■■■■■■■                   
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■             
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■■■■■■■       
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 
+Waiting 15s for retry backoff ■■■                             
+Waiting 15s for retry backoff ■■■■■                           
+Waiting 15s for retry backoff ■■■■■■■■■■■                     
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■               
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■■■■■         
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   
+Waiting 15s for retry backoff ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 
+==> Coleta concluída
+  índice:    data/raw/vetos_index.json
+  por ano:   data/raw/vetos_por_ano
+  resultado: data/raw/resultado_veto
+  matérias:  data/raw/materia_detalhe

@@ -1,0 +1,92 @@
+
+Anexando pacote: 'purrr'
+
+O seguinte objeto é mascarado por 'package:jsonlite':
+
+    flatten
+
+Mensagen de aviso:
+pacote 'purrr' foi compilado no R versão 4.5.2 
+
+Anexando pacote: 'dplyr'
+
+Os seguintes objetos são mascarados por 'package:stats':
+
+    filter, lag
+
+Os seguintes objetos são mascarados por 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Mensagen de aviso:
+pacote 'dplyr' foi compilado no R versão 4.5.2 
+==> Baixando leis (LEI-n e LCP) por ano
+  - LEI-n 1995
+  - LEI-n 1996
+  - LEI-n 1997
+  - LEI-n 1998
+  - LEI-n 1999
+  - LEI-n 2000
+  - LEI-n 2001
+  - LEI-n 2002
+  - LEI-n 2003
+  - LEI-n 2004
+  - LEI-n 2005
+  - LEI-n 2006
+  - LEI-n 2007
+  - LEI-n 2008
+  - LEI-n 2009
+  - LEI-n 2010
+  - LEI-n 2011
+  - LEI-n 2012
+  - LEI-n 2013
+  - LEI-n 2014
+  - LEI-n 2015
+  - LEI-n 2016
+  - LEI-n 2017
+  - LEI-n 2018
+  - LEI-n 2019
+  - LEI-n 2020
+  - LEI-n 2021
+  - LEI-n 2022
+  - LEI-n 2023
+  - LEI-n 2024
+  - LEI-n 2025
+  - LEI-n 2026
+  - LCP 1995
+  - LCP 1996
+  - LCP 1997
+  - LCP 1998
+  - LCP 1999
+  - LCP 2000
+  - LCP 2001
+  - LCP 2002
+  - LCP 2003
+  - LCP 2004
+  - LCP 2005
+  - LCP 2006
+  - LCP 2007
+  - LCP 2008
+  - LCP 2009
+  - LCP 2010
+  - LCP 2011
+  - LCP 2012
+  - LCP 2013
+  - LCP 2014
+  - LCP 2015
+  - LCP 2016
+  - LCP 2017
+  - LCP 2018
+  - LCP 2019
+  - LCP 2020
+  - LCP 2021
+  - LCP 2022
+  - LCP 2023
+  - LCP 2024
+  - LCP 2025
+  - LCP 2026
+==> Consolidando índice de leis
+  total de leis catalogadas: 6572
+==> Coleta concluída
+  índice:  data/raw/leis_index.json
+  por ano: data/raw/leis_por_ano
